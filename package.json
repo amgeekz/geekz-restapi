@@ -1,5 +1,5 @@
 {
-  "name": "my-rest-api",
+  "name": "geekz-restapi",
   "version": "1.0.0",
   "description": "Rest api created by Zeeoneofc",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeoneofficial/my-rest-api.git"
+    "url": "git+https://github.com/amgeekz/geekz-restapi.git"
   },
   "keywords": [
     "nodejs-restapi",
@@ -54,5 +54,5 @@
     "request": "^2.88.2",
     "ssl-express-www": "^3.0.7"
   },
-  "homepage": "https://github.com/zeeoneofficial/my-rest-api#readme"
+  "homepage": "https://github.com/amgeekz/geekz-restapi#readme"
 }
